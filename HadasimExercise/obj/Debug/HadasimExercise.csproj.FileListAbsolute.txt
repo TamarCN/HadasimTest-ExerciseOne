@@ -1,0 +1,14 @@
+D:\users\user1\Downloads\Hadasim\HadasimExercise\HadasimExercise\bin\Debug\HadasimExercise.exe.config
+D:\users\user1\Downloads\Hadasim\HadasimExercise\HadasimExercise\bin\Debug\HadasimExercise.exe
+D:\users\user1\Downloads\Hadasim\HadasimExercise\HadasimExercise\bin\Debug\HadasimExercise.pdb
+D:\users\user1\Downloads\Hadasim\HadasimExercise\HadasimExercise\obj\Debug\HadasimExercise.csprojAssemblyReference.cache
+D:\users\user1\Downloads\Hadasim\HadasimExercise\HadasimExercise\obj\Debug\HadasimExercise.csproj.CoreCompileInputs.cache
+D:\users\user1\Downloads\Hadasim\HadasimExercise\HadasimExercise\obj\Debug\HadasimExercise.exe
+D:\users\user1\Downloads\Hadasim\HadasimExercise\HadasimExercise\obj\Debug\HadasimExercise.pdb
+D:\users\user1\Downloads\HadasimExerciseOne\HadasimExercise\HadasimExercise\bin\Debug\HadasimExercise.exe.config
+D:\users\user1\Downloads\HadasimExerciseOne\HadasimExercise\HadasimExercise\bin\Debug\HadasimExercise.exe
+D:\users\user1\Downloads\HadasimExerciseOne\HadasimExercise\HadasimExercise\bin\Debug\HadasimExercise.pdb
+D:\users\user1\Downloads\HadasimExerciseOne\HadasimExercise\HadasimExercise\obj\Debug\HadasimExercise.csprojAssemblyReference.cache
+D:\users\user1\Downloads\HadasimExerciseOne\HadasimExercise\HadasimExercise\obj\Debug\HadasimExercise.csproj.CoreCompileInputs.cache
+D:\users\user1\Downloads\HadasimExerciseOne\HadasimExercise\HadasimExercise\obj\Debug\HadasimExercise.exe
+D:\users\user1\Downloads\HadasimExerciseOne\HadasimExercise\HadasimExercise\obj\Debug\HadasimExercise.pdb

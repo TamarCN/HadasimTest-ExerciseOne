@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HadasimExercise", "HadasimExercise\HadasimExercise.csproj", "{BDC44635-0B4A-4EDF-802C-3FB22467F844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC44635-0B4A-4EDF-802C-3FB22467F844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC44635-0B4A-4EDF-802C-3FB22467F844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC44635-0B4A-4EDF-802C-3FB22467F844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC44635-0B4A-4EDF-802C-3FB22467F844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91D5FD9D-DD00-4BB9-833B-F1AF9FA38180}
+	EndGlobalSection
+EndGlobal
