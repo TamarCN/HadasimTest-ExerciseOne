@@ -1,12 +1,12 @@
 # HadasimTest-ExerciseOne
 
 ## Table of contents
-* [Projet description](#Projet description)
+* [Description](#Description)
 * [Example](#Example)
 * [Setup](#setup)
-* [How to run it](#How to run it)
+* [Running](#Running)
 
-## Projet description
+## Description
 This project reads from a files the most common names and their level of frequency and a list of identical names.
 It reads them into a Dictionaries and sends them to a function that merge the identical names.
 This function create a list of lists, and any list within the main list keeps the identical names.
@@ -31,6 +31,6 @@ Tomer 13
 ## Setup
 visaul studio 2017 and up.
 
-## How to run it
+## Running
 Downloaded the project.
 Open HadasimExercise.sln and run it.
