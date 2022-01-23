@@ -1,9 +1,14 @@
 # HadasimTest-ExerciseOne
 
 # Projet description
-This project read from a file the most common names and their level of frequency, it also read a list of identical names,
+This project reads from a files the most common names and their level of frequency and a list of identical names.
+It reads them into a Dictionaries and sends them to a function that merge the identical names.
+This function create a list of lists, and any list within the main list keeps the identical names.
+After the merging the system calls to a function that sums the total number of occurrences per name.
 the system returns as output the record of the names and their true frequency.
+
 The files should be located in the next path: "D:\Files", with the names: Names, Synonyms.
+
 
 # Example
 The input files will look like this:
