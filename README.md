@@ -3,7 +3,6 @@
 ## Table of contents
 * [Projet description](#Projet description)
 * [Example](#Example)
-* [Technologies](#technologies)
 * [Setup](#setup)
 * [How to run it](#How to run it)
 
@@ -32,6 +31,6 @@ Tomer 13
 ## Setup
 visaul studio 2017 and up.
 
-# How to run it
+## How to run it
 Downloaded the project.
 Open HadasimExercise.sln and run it.
