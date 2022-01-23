@@ -29,8 +29,8 @@ namespace HadasimExercise
         public void InitializeDictionary()
         {
             
-            string file1 = @"D:\Files\Names.txt";
-            string file2 = @"D:\Files\Synonyms.txt";
+            string file1 = @"\Files\Names.txt";
+            string file2 = @"\Files\Synonyms.txt";
             string name, synonym;
             int amount;
             if (File.Exists(file1))

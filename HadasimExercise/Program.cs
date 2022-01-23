@@ -10,16 +10,17 @@ namespace HadasimExercise
     {
         static void Main(string[] args)
         {
-            try
-            {
+           try
+           {
                 ExerciseOne exerciseOne = new ExerciseOne();
                 exerciseOne.TheMostCommonNames();
                 System.Console.ReadKey();
-            }
-            catch(Exception e)
-            {
+           }
+           catch(Exception e)
+           {
                 Console.WriteLine("Something went wrong");
-            }
+                System.Console.ReadKey();
+           }
            
 
         }
